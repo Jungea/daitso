@@ -10,7 +10,7 @@
 - Frontend
     - React.js   vs   thymeleaf
     - 스토리보드
-        - [카카오 오븐](https://ovenapp.io/)
+        - [카카오 오븐](https://ovenapp.io/view/meNYST9gFp7FrPP1pFc3OdWrSXZqG2uJ/TGvSh)
     
 - Backend
     - STS    vs    IntelliJ
