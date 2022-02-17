@@ -1,11 +1,13 @@
 # daitso
 
-사용해보지  기술 다 써보기
+모든 걸 다 파는 쇼핑몰, 다있소!
+여태 사용해보지  기술을 이 프로젝트에서 모두 사용해 보는 것이 목적이다.
   
 ## 계획
 
 - 기능 리스트
     - 우선순위 결정
+    - [기능](https://github.com/Jungea/daitso/wiki/%EA%B8%B0%EB%8A%A5-%EB%AA%A9%EB%A1%9D)
 
 - Frontend
     - React.js   vs   thymeleaf
